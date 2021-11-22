@@ -1,0 +1,830 @@
+Archive member included to satisfy reference by file (symbol)
+
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfsi.o)
+                              build/default/production/main.o (__fixsfsi)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixunssfsi.o)
+                              e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfsi.o) (__fixunssfsi)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatsisf.o)
+                              build/default/production/main.o (__floatsisf)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+                              e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixunssfsi.o) (__fp_splitA)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+                              e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixunssfsi.o) (__fp_zero)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+                              build/default/production/main.o (__mulsf3)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+                              e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o) (__mulsf3x)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+                              e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o) (__fp_inf)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+                              e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o) (__fp_nan)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+                              e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o) (__fp_pscA)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+                              e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o) (__fp_pscB)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+                              e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o) (__fp_round)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+                              E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o (exit)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+                              build/default/production/PrintResult.o (__movmemx_qi)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(itoa_ncheck.o)
+                              build/default/production/LCD_4bit.o (__itoa_ncheck)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(utoa_ncheck.o)
+                              e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(itoa_ncheck.o) (__utoa_common)
+e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strrev.o)
+                              e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(utoa_ncheck.o) (strrev)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .bss           0x0000000000000000        0x0 E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .text          0x0000000000000000        0x0 build/default/production/IO.o
+ .data          0x0000000000000000        0x0 build/default/production/IO.o
+ .bss           0x0000000000000000        0x0 build/default/production/IO.o
+ .text.isPressed
+                0x0000000000000000       0x70 build/default/production/IO.o
+ .text.isPress_B
+                0x0000000000000000       0x18 build/default/production/IO.o
+ .text.init_Buzzer
+                0x0000000000000000        0x4 build/default/production/IO.o
+ .text.set_Buzzer
+                0x0000000000000000        0xc build/default/production/IO.o
+ .text.init_Relay
+                0x0000000000000000        0x4 build/default/production/IO.o
+ .text.set_Relay
+                0x0000000000000000        0xc build/default/production/IO.o
+ .text.init_Leds
+                0x0000000000000000        0xa build/default/production/IO.o
+ .text.set_Led  0x0000000000000000       0x3c build/default/production/IO.o
+ .text.init_Buttons
+                0x0000000000000000        0x8 build/default/production/IO.o
+ .text.setPortDir
+                0x0000000000000000       0x5c build/default/production/IO.o
+ .text.setPortData
+                0x0000000000000000       0x34 build/default/production/IO.o
+ .text.togglePortData
+                0x0000000000000000       0x44 build/default/production/IO.o
+ .text.togglePinData
+                0x0000000000000000       0x72 build/default/production/IO.o
+ .text          0x0000000000000000        0x0 build/default/production/ADC.o
+ .data          0x0000000000000000        0x0 build/default/production/ADC.o
+ .bss           0x0000000000000000        0x0 build/default/production/ADC.o
+ .text.ADC_Init_INTERRUPT
+                0x0000000000000000        0x4 build/default/production/ADC.o
+ .text          0x0000000000000000        0x0 build/default/production/LCD_4bit.o
+ .data          0x0000000000000000        0x0 build/default/production/LCD_4bit.o
+ .bss           0x0000000000000000        0x0 build/default/production/LCD_4bit.o
+ .text.LCD_Write_Num_4bit
+                0x0000000000000000       0x3a build/default/production/LCD_4bit.o
+ .text          0x0000000000000000        0x0 build/default/production/main.o
+ .data          0x0000000000000000        0x0 build/default/production/main.o
+ .bss           0x0000000000000000        0x0 build/default/production/main.o
+ .text          0x0000000000000000        0x0 build/default/production/PrintResult.o
+ .data          0x0000000000000000        0x0 build/default/production/PrintResult.o
+ .bss           0x0000000000000000        0x0 build/default/production/PrintResult.o
+ .text.Print_Result_Optmized
+                0x0000000000000000      0x24e build/default/production/PrintResult.o
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfsi.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfsi.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfsi.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfsi.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixunssfsi.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixunssfsi.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixunssfsi.o)
+ .stack.descriptors
+                0x0000000000000000       0x1a e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixunssfsi.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatsisf.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatsisf.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatsisf.o)
+ .stack.descriptors
+                0x0000000000000000       0x34 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatsisf.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+ .stack.descriptors
+                0x0000000000000000       0x32 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+ .stack.descriptors
+                0x0000000000000000       0x2f e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+ .stack.descriptors
+                0x0000000000000000       0x31 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+ .stack.descriptors
+                0x0000000000000000       0x16 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+ .stack.descriptors
+                0x0000000000000000       0x17 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+ .stack.descriptors
+                0x0000000000000000       0x18 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .stack.descriptors
+                0x0000000000000000       0x13 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .stack.descriptors
+                0x0000000000000000       0x34 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text.libgcc.fixed
+                0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(itoa_ncheck.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(itoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(itoa_ncheck.o)
+ .text.avrlibc  0x0000000000000000       0x16 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(itoa_ncheck.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(itoa_ncheck.o)
+ .stack.descriptors
+                0x0000000000000000       0x1b e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(itoa_ncheck.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(utoa_ncheck.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(utoa_ncheck.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(utoa_ncheck.o)
+ .text.avrlibc  0x0000000000000000       0x34 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(utoa_ncheck.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(utoa_ncheck.o)
+ .stack.descriptors
+                0x0000000000000000       0x36 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(utoa_ncheck.o)
+ .text          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strrev.o)
+ .data          0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strrev.o)
+ .bss           0x0000000000000000        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strrev.o)
+ .text.avrlibc  0x0000000000000000       0x20 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strrev.o)
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strrev.o)
+ .stack.descriptors
+                0x0000000000000000       0x14 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a(strrev.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000008000 xr
+data             0x0000000000800060 0x0000000000000800 rw !x
+eeprom           0x0000000000810000 0x0000000000000400 rw !x
+fuse             0x0000000000820000 0x0000000000000002 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+user_signatures  0x0000000000850000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+                0x0000000000000001                __MPLAB_BUILD = 0x1
+LOAD build/default/production/IO.o
+LOAD build/default/production/ADC.o
+LOAD build/default/production/LCD_4bit.o
+LOAD build/default/production/main.o
+LOAD build/default/production/PrintResult.o
+START GROUP
+LOAD e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a
+END GROUP
+START GROUP
+LOAD e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a
+LOAD e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a
+LOAD e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libc.a
+LOAD E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const\libatmega32a.a
+END GROUP
+                [0x0000000000000000]                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                [0x0000000000800060]                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x800060
+                [0x0000000000008000]                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
+                [0x0000000000000800]                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                [0x0000000000000400]                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x0000000000000002]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x0000000000000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x0000000000000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x0000000000000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000       0x6c
+ *(.vectors)
+ .vectors       0x0000000000000000       0x54 E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+                0x0000000000000000                __vector_default
+                0x0000000000000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.dinit)
+ .dinit         0x0000000000000054        0x0 data_init
+                0x0000000000000054                . = ALIGN (0x2)
+                0x0000000000000054                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000054        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000054                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+                0x0000000000000054                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000054                __ctors_start = .
+ *(.ctors)
+                0x0000000000000054                __ctors_end = .
+                0x0000000000000054                __dtors_start = .
+ *(.dtors)
+                0x0000000000000054                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000054        0x0 E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+                0x0000000000000054                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000054        0xc E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000060        0x8 E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ *(.init9)
+                0x0000000000000068                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000000068        0x0 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+                0x0000000000000068                _exit
+                0x0000000000000068                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000000068        0x4 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000000000000006c                _etext = .
+
+.data           0x0000000000800060        0x0 load address 0x000000000000006c
+                [!provide]                        PROVIDE (__data_start, .)
+ *(.gnu.linkonce.d*)
+ *(.gnu.linkonce.r*)
+                0x0000000000800060                . = ALIGN (0x2)
+                0x0000000000800060                _edata = .
+                [!provide]                        PROVIDE (__data_end, .)
+
+.bss            0x0000000000800060        0x0
+                [!provide]                        PROVIDE (__bss_start, .)
+ *(COMMON)
+                [!provide]                        PROVIDE (__bss_end, .)
+                0x000000000000006c                __data_load_start = LOADADDR (.data)
+                0x000000000000006c                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800060        0x0
+                [!provide]                        PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                        PROVIDE (__noinit_end, .)
+                0x0000000000800060                _end = .
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x2f
+ *(.comment)
+ .comment       0x0000000000000000       0x2f build/default/production/IO.o
+                                         0x30 (size before relaxing)
+ .comment       0x000000000000002f       0x30 build/default/production/ADC.o
+ .comment       0x000000000000002f       0x30 build/default/production/LCD_4bit.o
+ .comment       0x000000000000002f       0x30 build/default/production/main.o
+ .comment       0x000000000000002f       0x30 build/default/production/PrintResult.o
+
+.stack.descriptors.hdr
+                0x0000000000000000       0xc4
+ .stack.descriptors.hdr
+                0x0000000000000000        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfsi.o)
+ .stack.descriptors.hdr
+                0x000000000000000e        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixunssfsi.o)
+ .stack.descriptors.hdr
+                0x000000000000001c        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatsisf.o)
+ .stack.descriptors.hdr
+                0x000000000000002a        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+ .stack.descriptors.hdr
+                0x0000000000000038        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+ .stack.descriptors.hdr
+                0x0000000000000046        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+ .stack.descriptors.hdr
+                0x0000000000000054        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+ .stack.descriptors.hdr
+                0x0000000000000062        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+ .stack.descriptors.hdr
+                0x0000000000000070        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+ .stack.descriptors.hdr
+                0x000000000000007e        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+ .stack.descriptors.hdr
+                0x000000000000008c        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+ .stack.descriptors.hdr
+                0x000000000000009a        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+ .stack.descriptors.hdr
+                0x00000000000000a8        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_exit.o)
+ .stack.descriptors.hdr
+                0x00000000000000b6        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x170
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x90 build/default/production/IO.o
+ .debug_aranges
+                0x0000000000000090       0x40 build/default/production/ADC.o
+ .debug_aranges
+                0x00000000000000d0       0x58 build/default/production/LCD_4bit.o
+ .debug_aranges
+                0x0000000000000128       0x20 build/default/production/main.o
+ .debug_aranges
+                0x0000000000000148       0x28 build/default/production/PrintResult.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x1f6f
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x0000000000000000      0x4e6 E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .debug_info    0x00000000000004e6      0x51f build/default/production/IO.o
+ .debug_info    0x0000000000000a05      0x2db build/default/production/ADC.o
+ .debug_info    0x0000000000000ce0      0x8d0 build/default/production/LCD_4bit.o
+ .debug_info    0x00000000000015b0      0x3dc build/default/production/main.o
+ .debug_info    0x000000000000198c      0x5e3 build/default/production/PrintResult.o
+
+.debug_abbrev   0x0000000000000000      0x9d0
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000      0x4a3 E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .debug_abbrev  0x00000000000004a3       0xbf build/default/production/IO.o
+ .debug_abbrev  0x0000000000000562       0x96 build/default/production/ADC.o
+ .debug_abbrev  0x00000000000005f8      0x1f6 build/default/production/LCD_4bit.o
+ .debug_abbrev  0x00000000000007ee      0x138 build/default/production/main.o
+ .debug_abbrev  0x0000000000000926       0xaa build/default/production/PrintResult.o
+
+.debug_line     0x0000000000000000      0xca1
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000      0x119 E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .debug_line    0x0000000000000119      0x407 build/default/production/IO.o
+ .debug_line    0x0000000000000520       0xe2 build/default/production/ADC.o
+ .debug_line    0x0000000000000602      0x22f build/default/production/LCD_4bit.o
+ .debug_line    0x0000000000000831       0xf9 build/default/production/main.o
+ .debug_line    0x000000000000092a      0x377 build/default/production/PrintResult.o
+
+.debug_frame    0x0000000000000000      0x2cc
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000      0x104 build/default/production/IO.o
+ .debug_frame   0x0000000000000104       0x64 build/default/production/ADC.o
+ .debug_frame   0x0000000000000168       0xc0 build/default/production/LCD_4bit.o
+ .debug_frame   0x0000000000000228       0x34 build/default/production/main.o
+ .debug_frame   0x000000000000025c       0x70 build/default/production/PrintResult.o
+
+.debug_str      0x0000000000000000      0x272
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x196 E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+ .debug_str     0x0000000000000196       0x15 build/default/production/IO.o
+ .debug_str     0x00000000000001ab        0x0 build/default/production/ADC.o
+ .debug_str     0x00000000000001ab       0x49 build/default/production/LCD_4bit.o
+ .debug_str     0x00000000000001f4       0x5d build/default/production/main.o
+ .debug_str     0x0000000000000251       0x21 build/default/production/PrintResult.o
+
+.debug_loc      0x0000000000000000      0x9f8
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x454 build/default/production/IO.o
+ .debug_loc     0x0000000000000454       0xa2 build/default/production/ADC.o
+ .debug_loc     0x00000000000004f6      0x382 build/default/production/LCD_4bit.o
+ .debug_loc     0x0000000000000878       0x24 build/default/production/main.o
+ .debug_loc     0x000000000000089c      0x15c build/default/production/PrintResult.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000      0x120
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000       0x80 build/default/production/IO.o
+ .debug_ranges  0x0000000000000080       0x30 build/default/production/ADC.o
+ .debug_ranges  0x00000000000000b0       0x48 build/default/production/LCD_4bit.o
+ .debug_ranges  0x00000000000000f8       0x10 build/default/production/main.o
+ .debug_ranges  0x0000000000000108       0x18 build/default/production/PrintResult.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(dist/default/production/Grad_Project.X.production.elf elf32-avr)
+LOAD linker stubs
+LOAD data_init
+
+.note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x0000000000000000       0x3c E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+
+.progmemx.data  0x000000000000006c       0x66
+ .progmemx.data
+                0x000000000000006c       0x66 build/default/production/PrintResult.o
+
+.text.Print_Result
+                0x00000000000000d2      0x2d4
+ .text.Print_Result
+                0x00000000000000d2      0x2d4 build/default/production/PrintResult.o
+                0x00000000000000d2                Print_Result
+
+.text.setPinDir
+                0x00000000000003a6       0xf0
+ .text.setPinDir
+                0x00000000000003a6       0xf0 build/default/production/IO.o
+                0x00000000000003a6                setPinDir
+
+.text.setPinData
+                0x0000000000000496       0xf0
+ .text.setPinData
+                0x0000000000000496       0xf0 build/default/production/IO.o
+                0x0000000000000496                setPinData
+
+.text.avrlibc.fplib
+                0x0000000000000586       0xd4
+ .text.avrlibc.fplib
+                0x0000000000000586       0xd4 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3x.o)
+                0x0000000000000586                __mulsf3x
+                0x00000000000005ac                __mulsf3_pse
+
+.text.main      0x000000000000065a       0x8a
+ .text.main     0x000000000000065a       0x8a build/default/production/main.o
+                0x000000000000065a                main
+
+.text.avrlibc.fplib
+                0x00000000000006e4       0x7a
+ .text.avrlibc.fplib
+                0x00000000000006e4       0x7a e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(floatsisf.o)
+                0x00000000000006e4                __floatunsisf
+                0x00000000000006e8                __floatsisf
+
+.text.init_LCD_4bit
+                0x000000000000075e       0x76
+ .text.init_LCD_4bit
+                0x000000000000075e       0x76 build/default/production/LCD_4bit.o
+                0x000000000000075e                init_LCD_4bit
+
+.text.avrlibc.fplib
+                0x00000000000007d4       0x5e
+ .text.avrlibc.fplib
+                0x00000000000007d4       0x5e e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixunssfsi.o)
+                0x00000000000007d4                __fixunssfsi
+
+.text.LCD_DATA_4bit
+                0x0000000000000832       0x56
+ .text.LCD_DATA_4bit
+                0x0000000000000832       0x56 build/default/production/LCD_4bit.o
+                0x0000000000000832                LCD_DATA_4bit
+
+.text.LCD_CMD_4bit
+                0x0000000000000888       0x56
+ .text.LCD_CMD_4bit
+                0x0000000000000888       0x56 build/default/production/LCD_4bit.o
+                0x0000000000000888                LCD_CMD_4bit
+
+.text.avrlibc.fplib
+                0x00000000000008de       0x44
+ .text.avrlibc.fplib
+                0x00000000000008de       0x44 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_split3.o)
+                0x00000000000008de                __fp_split3
+                0x00000000000008ee                __fp_splitA
+
+.text.LCD_EN_4bit
+                0x0000000000000922       0x2e
+ .text.LCD_EN_4bit
+                0x0000000000000922       0x2e build/default/production/LCD_4bit.o
+                0x0000000000000922                LCD_EN_4bit
+
+.text.init_ADC  0x0000000000000950       0x22
+ .text.init_ADC
+                0x0000000000000950       0x22 build/default/production/ADC.o
+                0x0000000000000950                init_ADC
+
+.text.avrlibc.fplib
+                0x0000000000000972       0x22
+ .text.avrlibc.fplib
+                0x0000000000000972       0x22 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_round.o)
+                0x0000000000000972                __fp_round
+
+.text.LCD_Write_Str_4bit
+                0x0000000000000994       0x1e
+ .text.LCD_Write_Str_4bit
+                0x0000000000000994       0x1e build/default/production/LCD_4bit.o
+                0x0000000000000994                LCD_Write_Str_4bit
+
+.text.LCD_goto_4bit
+                0x00000000000009b2       0x1c
+ .text.LCD_goto_4bit
+                0x00000000000009b2       0x1c build/default/production/LCD_4bit.o
+                0x00000000000009b2                LCD_goto_4bit
+
+.text.libgcc    0x00000000000009ce       0x1a
+ .text.libgcc   0x00000000000009ce       0x1a e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/avr5/memx-const\libgcc.a(_movmemx.o)
+                0x00000000000009ce                __movmemx_qi
+                0x00000000000009d0                __movmemx_hi
+
+.text.ADC_Channel_Select
+                0x00000000000009e8        0xe
+ .text.ADC_Channel_Select
+                0x00000000000009e8        0xe build/default/production/ADC.o
+                0x00000000000009e8                ADC_Channel_Select
+
+.text.ADC_read  0x00000000000009f6        0xe
+ .text.ADC_read
+                0x00000000000009f6        0xe build/default/production/ADC.o
+                0x00000000000009f6                ADC_read
+
+.text.avrlibc.fplib
+                0x0000000000000a04        0xe
+ .text.avrlibc.fplib
+                0x0000000000000a04        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fixsfsi.o)
+                0x0000000000000a04                __fixsfsi
+
+.text.avrlibc.fplib
+                0x0000000000000a12        0xe
+ .text.avrlibc.fplib
+                0x0000000000000a12        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_zero.o)
+                0x0000000000000a12                __fp_zero
+                0x0000000000000a14                __fp_szero
+
+.text.avrlibc.fplib
+                0x0000000000000a20        0xe
+ .text.avrlibc.fplib
+                0x0000000000000a20        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscA.o)
+                0x0000000000000a20                __fp_pscA
+
+.text.avrlibc.fplib
+                0x0000000000000a2e        0xe
+ .text.avrlibc.fplib
+                0x0000000000000a2e        0xe e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_pscB.o)
+                0x0000000000000a2e                __fp_pscB
+
+.text.avrlibc.fplib
+                0x0000000000000a3c        0xc
+ .text.avrlibc.fplib
+                0x0000000000000a3c        0xc e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_inf.o)
+                0x0000000000000a3c                __fp_inf
+
+.text.LCD_CLEAR_4bit
+                0x0000000000000a48        0x8
+ .text.LCD_CLEAR_4bit
+                0x0000000000000a48        0x8 build/default/production/LCD_4bit.o
+                0x0000000000000a48                LCD_CLEAR_4bit
+
+.text.avrlibc.fplib
+                0x0000000000000a50        0x8
+ .text.avrlibc.fplib
+                0x0000000000000a50        0x8 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(mulsf3.o)
+                0x0000000000000a50                __mulsf3
+
+.text.avrlibc.fplib
+                0x0000000000000a58        0x6
+ .text.avrlibc.fplib
+                0x0000000000000a58        0x6 e:/mblab/avr/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avr5/memx-const\libm.a(fp_nan.o)
+                0x0000000000000a58                __fp_nan
+
+.text           0x0000000000000a5e        0x4
+ .text          0x0000000000000a5e        0x4 E:/mblab/packs/Microchip/ATmega_DFP/2.3.126/xc8/avr/lib/avr5/memx-const/crtatmega32a.o
+                0x0000000000000a5e                __vector_1
+                0x0000000000000a5e                __vector_12
+                0x0000000000000a5e                __bad_interrupt
+                0x0000000000000a5e                __vector_6
+                0x0000000000000a5e                __vector_3
+                0x0000000000000a5e                __vector_11
+                0x0000000000000a5e                __vector_13
+                0x0000000000000a5e                __vector_17
+                0x0000000000000a5e                __vector_19
+                0x0000000000000a5e                __vector_7
+                0x0000000000000a5e                __vector_5
+                0x0000000000000a5e                __vector_4
+                0x0000000000000a5e                __vector_9
+                0x0000000000000a5e                __vector_2
+                0x0000000000000a5e                __vector_15
+                0x0000000000000a5e                __vector_8
+                0x0000000000000a5e                __vector_14
+                0x0000000000000a5e                __vector_10
+                0x0000000000000a5e                __vector_16
+                0x0000000000000a5e                __vector_18
+                0x0000000000000a5e                __vector_20
+
+.text.ADC_StartConv
+                0x0000000000000a62        0x4
+ .text.ADC_StartConv
+                0x0000000000000a62        0x4 build/default/production/ADC.o
+                0x0000000000000a62                ADC_StartConv
