@@ -11,7 +11,7 @@ void init_LCD_4bit() {
     setPinDir(LCD_control_dir, RS, OUT);
     setPinDir(LCD_control_dir, RW, OUT);
     setPinDir(LCD_control_dir, EN, OUT);
-    setPinData(LCD_control, RW, OFF);
+    setPinData(LCD_control, RW, OFF); ////writing mode only
 
     LCD_CMD_4bit(ReturnHome);
     LCD_CMD_4bit(_4BIT_MODE);
